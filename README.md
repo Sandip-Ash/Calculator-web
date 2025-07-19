@@ -1,6 +1,6 @@
 # 🔢 Calculator Web App
 
-A simple and beginner-friendly calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations, such as addition, subtraction, multiplication, and division, all within a clean and responsive user interface.
+A simple and beginner-friendly calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations, such as addition, subtraction, multiplication, and division, all within a clean and responsive user interface. ( ![Calculator](https://sandip-ash.github.io/Calculator-web/) )
 
 ---
 
